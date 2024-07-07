@@ -1,5 +1,5 @@
-# PRODIGY_DS_03
-Decision Tree Classifier for Predicting Customer Purchases
+
+#Decision Tree Classifier for Predicting Customer Purchases
 This repository contains code for building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The classifier is trained on the Bank Marketing dataset obtained from the UCI Machine Learning Repository.
 
 Dataset Description
